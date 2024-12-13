@@ -1,5 +1,7 @@
 # Scalable-Product-Duplicate-Detection
 
+This project implements a scalable product duplicate detection system specifically for TVs, utilizing Locality-Sensitive Hashing (LSH) and advanced filtering techniques to efficiently identify duplicate listings across multiple vendors while balancing computational cost and detection accuracy.
+
 File Structure:
 
 mainv11.py:
