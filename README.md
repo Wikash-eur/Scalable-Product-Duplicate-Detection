@@ -14,7 +14,7 @@ bootstrappingv4.py:
 With this file, a grid search for optimal parameters can eb performed. With it we can also perform a few boothstrap runs. Note: we can also create performance evaluation plots with it showing PC, PQ, F1 scores vs fraction of comparisons made.
 
 GeneralInformation.py:
-
+With this file, the data was analysed, and you can create lists of the cleaned titled or descriptions, brand names, sizes and more.
 
 bugfix2.py:
 This file was created for small tests and bugfixxing, it does not serve a specific goal.
